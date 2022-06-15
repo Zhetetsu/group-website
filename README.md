@@ -24,4 +24,5 @@ are caused by two trailing spaces at the end of a line.
 4. philosopers carpentry
 
 ![carpentries logo](./carpentrieslogo.jpeg)
-         carpentries logo copyright carpentries 2022.
+
+carpentries logo copyright carpentries 2022.
