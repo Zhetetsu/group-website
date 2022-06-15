@@ -22,3 +22,6 @@ are caused by two trailing spaces at the end of a line.
     1. section 1
     2. section 2
 4. philosopers carpentry
+
+![carpentries logo](./carpentrieslogo.jpeg)
+         carpentries logo copyright carpentries 2022.
